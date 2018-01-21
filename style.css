@@ -1,0 +1,21 @@
+h1, h2, .verse, .chorus {
+  font-size: 2em;
+  color: tomato;
+  margin: 0 auto;
+  text-align: center;
+  padding: 15px 0; }
+
+h2 {
+  font-size: 1.5em;
+  color: royalblue;
+  font-style: italic; }
+
+p {
+  margin: 0; }
+
+.verse, .chorus {
+  font-size: 1em;
+  padding: 10px 0;
+  color: #000; }
+
+/*# sourceMappingURL=style.css.map */
